@@ -1,7 +1,7 @@
 # DCGAN-Monet-Paintings
 This projects utilized DCGAN, a deep learning concept utilizing general Generative Adversarial Networks, to create images in the style of one of the great french masters: Claude Monet
 
-This project is in response to a Kaggle competition found here: https://www.kaggle.com/competitions/gan-getting-started/overview , whereby users are challenged to use GAN (Generative Adversarial Networks) to create a set of 7000-10000 images in the style of Monet to demonstrate their knowledge of this Deep Learning tool.
+This project is in response to a Kaggle competition found here: https://www.kaggle.com/competitions/gan-getting-started/overview, whereby users are challenged to use GAN (Generative Adversarial Networks) to create a set of 7000-10000 images in the style of Monet to demonstrate their knowledge of this Deep Learning tool.
 
 A General Adversarial Network is a framework used in deep learning, comprised of two neural networks: A Generator and a Discriminator. The Genererator created fake data (images in this case), while the Discriminator judges whether the data is real or fake. These two neural networks work in tandem with each other, each gaining feedback from each other to increase the efficacy of the data output. This process is iterated over continually until the data generated is realistic enought that the discriminator cant distinguish between real and fake data.
 
