@@ -1,5 +1,5 @@
 # DCGAN-Monet-Paintings
-This projects utilized DCGAN, a deep learning concept utilizing general Generative Adversarial Networks, to create images in the style of one of the great french masters: Claude Monet
+This projects utilizes DCGAN, a deep learning concept utilizing general Generative Adversarial Networks, to create images in the style of one of the great french masters: Claude Monet
 
 This project is in response to a Kaggle competition found here: https://www.kaggle.com/competitions/gan-getting-started/overview, whereby users are challenged to use GAN (Generative Adversarial Networks) to create a set of 7000-10000 images in the style of Monet to demonstrate their knowledge of this Deep Learning tool.
 
