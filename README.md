@@ -7,7 +7,7 @@ A General Adversarial Network is a framework used in deep learning, comprised of
 
 The data in this competition is two-fold: (1) A set of Monet paintings and (2) A set of Photos that users are challenged to emmulate in the style Monet.
 
-It should be noted though, that the Kaggle Competition also specifies that users may decided to create their own images from scratch, rather than use the photos provided to be transformed in the likeness of Monet-Style paintings.
+It should be noted though, that the Kaggle Competition also specifies that users may decided to create their own images from scratch, rather than use the photos provided to be transformed in the likeness of Monet style paintings.
 
 As per the competition description:
 
